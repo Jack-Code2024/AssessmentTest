@@ -57,7 +57,7 @@ Step 4: Type the following command to run the unit test:
 - Files inside this folder (i.e. \AssessmentTest\UnitTest\bin\Debug\net6.0) are needed to run the unit test on other machine where .NET runtime is installed
 - We can copy "net6.0" folder to the target machine and change it to an appropriate name (make sure .NET runtime is installed on the target machine)
 
-## To deploy the project
+## To deploy the web project
 
 Step 1: Open "AssessmentTest" folder with Visual Studio Code
 
