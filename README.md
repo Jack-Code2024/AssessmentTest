@@ -8,19 +8,19 @@ Step 2: Open the folder where you want this project to be
 
 Step 3: Open a new terminal
 
-Step 4: Type the following command to clone the project:
+Step 4: Run the following command to clone the project:
 
 &nbsp;&nbsp;&nbsp;&nbsp;git clone https://github.com/Jack-Code2024/AssessmentTest.git
 
-Step 5: Type the following command to go to the project folder: 
+Step 5: Run the following command to go to the project folder: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;cd AssessmentTest
 
-Step 6: Type the following command to build all projects: 
+Step 6: Run the following command to build all projects: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet build
 
-Step 7: Type the following command to run the project
+Step 7: Run the following command to run the project
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet run --project .\ConvertTest\
 
@@ -41,11 +41,11 @@ Step 1: Open "AssessmentTest" folder with Visual Studio Code
 
 Step 2: Open a new terminal
 
-Step 3: Type the following command to go to UnitTest project: 
+Step 3: Run the following command to go to UnitTest project: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;cd UnitTest
 
-Step 4: Type the following command to run the unit test: 
+Step 4: Run the following command to run the unit test: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet run --project .
 
@@ -61,15 +61,15 @@ Step 4: Type the following command to run the unit test:
 
 Step 1: Open "AssessmentTest" folder with Visual Studio Code
 
-Step 2: Type the following command to go to ConvertTest project: 
+Step 2: Run the following command to go to ConvertTest project: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;cd ConvertTest
 
-Step 3: Type the following command to build the project: 
+Step 3: Run the following command to build the project: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet build
 
-Step 4: Type the following command to publish the project: 
+Step 4: Run the following command to publish the project: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet publish -c Release
 
@@ -82,11 +82,11 @@ Step 5: Copy "publish" folder to the target environment
 
 Step 6: Open PowerShell or Command Prompt in the target environment
 
-Step 7: Type the following command to go to publish folder: 
+Step 7: Run the following command to go to publish folder: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;cd c:\publish
 
-Step 8: Type the following command to run the web server: 
+Step 8: Run the following command to run the web server: 
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet ConvertTest.dll
 
