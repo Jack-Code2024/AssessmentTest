@@ -80,7 +80,7 @@ Step 5: Copy "publish" folder to the target environment
 
 &nbsp;&nbsp;&nbsp;&nbsp;Note: For example, copy the "publish" folder to C drive on the target environment
 
-Step 6: Open PowerShell or Command Prompt
+Step 6: Open PowerShell or Command Prompt in the target environment
 
 Step 7: Type the following command to go to publish folder: 
 
