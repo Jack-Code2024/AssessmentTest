@@ -73,8 +73,8 @@ Step 4: Type the following command to publish the project:
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet publish -c Release
 
-&nbsp;&nbsp;&nbsp;&nbsp;Note: The "publish" folder will be generated in the following disrectory after running the command:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;{your local path}\AssessmentTest\ConvertTest\bin\Release\net6.0\publish
+Note: The "publish" folder will be generated in the following disrectory after running the command:<br>
+{your local path}\AssessmentTest\ConvertTest\bin\Release\net6.0\publish
 		
 Step 5: Copy "publish" folder to the target environment
 
