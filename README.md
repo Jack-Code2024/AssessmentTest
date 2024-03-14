@@ -50,7 +50,7 @@ Step 4: Type the following command to run the unit test:
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet run --project .
 
 Notes:
-- Since, we have already build the projects when cloning them from Github
+- Since, we have already built the projects when cloning them from Github
 - We can find the executable file in this path:<br> 
   {your loca path}\AssessmentTest\UnitTest\bin\Debug\net6.0
 - Files inside this folder (i.e. \AssessmentTest\UnitTest\bin\Debug\net6.0) are needed to run the unit test on other machine where .NET runtime is installed
