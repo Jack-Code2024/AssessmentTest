@@ -104,7 +104,7 @@ The approach I am using is very straight forward. It is quite easy to understand
 
 For the services, I split the ConvertService to another project because I want to call the functions in the UnitTest project. And also, we can change the service much more easier in the future if we do it in seperate project.
 
-For the index.html, I put it in "wwwroot" because we can easily change to other technologies like React, Vue or Angular in the future. Another reason is that, if we want have any changes in UI, we can update it without effect the dlls.
+For the index.html, I put it in "wwwroot" because we can easily change to other technologies like React, Vue or Angular in the future. Another reason is that, if we have any changes in UI, we can update it without effect the dlls.
 
 This is the simplest way I can think of. I wash I can make it more simpler.
 
