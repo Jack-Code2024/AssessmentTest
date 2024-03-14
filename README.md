@@ -98,5 +98,15 @@ Step 9: Point cursor to this link: https://localhost:5001
 
 Step 10: Press [Ctrl+Click] to run the site
 
+## Remarks
+
+The approach I am using is very straight forward. It is quite easy to understand and maintain. Even junior can easily maintain it. This will reduce the maintain cost. If we do it with too many loops, too complex, to understand the looping will take some time. This makes the maintenance much more difficult. The approach I am using, I am very sure that the maximum of loop is five loops or lesser.
+
+For the services, I split the ConvertService to another project because I want to call the functions in the UnitTest project. And also, we can change the service much more easier in the future if we do it in seperate project.
+
+For the index.html, I put it in "wwwroot" because we can easily change to other technologies like React, Vue or Angular in the future. Another reason is that, if we want have any changes in UI, we can update it without effect the dlls.
+
+This is the simplest way I can think of. I wash I can make it more simpler.
+
 
 
