@@ -49,7 +49,7 @@ Step 4: Type the following command to run the unit test:
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet run --project .
 
-### How to deploy UnitTest to other machine
+#### How to deploy UnitTest to other machine
 
 - Since, we have already built the projects when cloning them from Github
 - We can find the executable file in this path:
