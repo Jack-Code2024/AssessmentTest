@@ -88,7 +88,7 @@ Step 8: Type the following command to run the web server:
 
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet ConvertTest.dll
 
-&nbsp;&nbsp;&nbsp;&nbsp;Note: We have two commands to run the server:
+&nbsp;&nbsp;&nbsp;&nbsp;Note: We have two files to run the server:
 - dotnet ConvertTest.dll - run this when .NET runtime is not available in the target environment<br>
 - dotnet ConvertTest.exe - run this when .NET runtime is available in the target environment
 
