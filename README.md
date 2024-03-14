@@ -51,7 +51,7 @@ Step 4: Type the following command to run the unit test:
 Notes:
 - Since, we have already build the projects when cloning them from Github
 - We can find the executable file in this path:<br> 
-  [actual path on your local machine]\AssessmentTest\UnitTest\bin\Debug\net6.0
+  {your loca path}\AssessmentTest\UnitTest\bin\Debug\net6.0
 - Files inside this folder (i.e. \AssessmentTest\UnitTest\bin\Debug\net6.0) are needed to run the unit test on other machine where .NET runtime is installed
 - We can copy "net6.0" to the target machine and change it to an appropriate name (make sure .NET runtime is installed on the target machine)
 
@@ -72,7 +72,7 @@ Step 4: Type the following command to publish the project:
 &nbsp;&nbsp;&nbsp;&nbsp;dotnet publish -c Release
 
 &nbsp;&nbsp;&nbsp;&nbsp;Note: The "publish" folder will be generated in the following disrectory after running the command:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;[actual path on your local machine]\AssessmentTest\ConvertTest\bin\Release\net6.0\publish
+&nbsp;&nbsp;&nbsp;&nbsp;{your local path}\AssessmentTest\ConvertTest\bin\Release\net6.0\publish
 		
 Step 5: Copy "publish" folder to the target environment
 
