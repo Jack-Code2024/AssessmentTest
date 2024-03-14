@@ -30,7 +30,7 @@ Step 9: Press [Ctrl+Click]
 
 Notes: 
 - "Number to Text Convertor" page will pop-up after [Ctrl+Clik]
-- We can now try entering number to the text box.
+- We can now try entering number to the text box
 - Click "Convert" button to convert the number to text
 - We can also click on the copy icon to copy the text
 
