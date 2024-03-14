@@ -28,7 +28,8 @@ Step 8: Point the cursor to this link in terminal: http://localhost:5174
 
 Step 9: Press [Ctrl+Click]
 
-Notes: 
+#### How to use the page
+
 - "Number to Text Convertor" page will pop-up after [Ctrl+Clik]
 - We can now try entering number to the text box
 - Click "Convert" button to convert the number to text
